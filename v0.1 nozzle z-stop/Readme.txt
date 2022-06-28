@@ -1,6 +1,6 @@
 What is this?
 
-![alt text](https://https://github.com/bstrawsma/Misc/blob/main/v0.1%20nozzle%20z-stop/images/endstop.png?raw=true)
+![My Image](images/endstop.png)
 
 This is a modifcation of the standard v0.1 bed mount to integrate a z-endstop that can be touched off by your nozzle.
 The idea behind this was to make your z offset more reliable as well as to ease z offset between multiple toolheads when using the v0.1 bed.
