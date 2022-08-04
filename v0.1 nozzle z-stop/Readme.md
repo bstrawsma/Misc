@@ -25,6 +25,8 @@ What you will need.
 
 Standard hardware for mounting the v0.1 bed frame mount
 
+![parts](images/endstop%202.png)
+
 Assembly
 
 Putting this endstop in place can be a bit of a challenge especially if you are looking to replace your existing bed mount. I was able to remove the bed mount without completely removing the z assembly but do this with caution. It would be best to completely disassembly and reassembly your z assembly, do this without the microswitch or sexbolt in place. Once you have the printed part installed install the head of the sexbolt, make sure the flat side is facing up. After the sex bolt is installed install the micro switch making sure that the switch is triggered by the sexbolt.
