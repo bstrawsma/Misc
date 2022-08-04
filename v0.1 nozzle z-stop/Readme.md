@@ -10,6 +10,8 @@ This endstop is also inspired by hart's sexbolt endstop
 
 The endstop also using two bushings one standard and one with a flange to account for the longer sexbolt needed to get above the bed and spring.
 
+![parts](images/endstop1.png)
+
 What you will need.
 * printed part
 * D2F microswitch
