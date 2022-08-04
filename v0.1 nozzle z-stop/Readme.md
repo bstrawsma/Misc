@@ -16,11 +16,11 @@ What you will need.
 * printed part
 * D2F microswitch
 * 5mm x 35mm sexbolt
- *I source from amazon although the quality leaves some to be desired
+  *I source from amazon although the quality leaves some to be desired
 * 5mm long flanged sleeve bearing for 5mm shaft
- *I sourced from mcmastercarr https://www.mcmaster.com/catalog/128/1336
+  *I sourced from mcmastercarr https://www.mcmaster.com/catalog/128/1336
 * 5mm long standard sleeve bearing for 5mm shaft	
- *Also sourced from mcmastercarr https://www.mcmaster.com/catalog/128/1326/
+  *Also sourced from mcmastercarr https://www.mcmaster.com/catalog/128/1326/
 * 2- M2 x10mm self tapping screws to mount the microswitch
 
 Standard hardware for mounting the v0.1 bed frame mount
