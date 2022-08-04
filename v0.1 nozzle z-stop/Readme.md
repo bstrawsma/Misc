@@ -4,6 +4,7 @@ What is this?
 
 This is a modifcation of the standard v0.1 bed mount to integrate a z-endstop that can be touched off by your nozzle.
 The idea behind this was to make your z endstop offset more reliable as well as to ease z offset between multiple toolheads when using the v0.1 bed.
+This part was made ideally for the Double Dragon to enable both heads to touch off the z endstop, if using it on a double dragon you have to make sure that the bed is moved such that both nozzles can reach the endstop. This results in a slight loss of bed space but it is really not noticable.
 
 This endstop is also inspired by hart's sexbolt endstop 
 
